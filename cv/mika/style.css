@@ -16,7 +16,7 @@ body {
 /* ===== GAUCHE ===== */
 .left {
     width: 35%;
-    background: linear-gradient(180deg, #203d44, #24545e);
+    background:  linear-gradient(180deg, #203d44, #24545e);
     color: rgb(255, 243, 243);
     padding: 30px;
 }

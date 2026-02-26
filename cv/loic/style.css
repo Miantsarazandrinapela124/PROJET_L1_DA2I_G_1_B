@@ -17,7 +17,7 @@ body {
 .cv-container {
     width: 100%;
     max-width: 850px;
-    background-color: #fff;
+    background-color:  #fff;
     display: flex;
     box-shadow: 0 5px 15px rgba(0,0,0,0.1);
 }
